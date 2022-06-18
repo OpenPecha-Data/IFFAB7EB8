@@ -1,0 +1,37 @@
+id: IFFAB7EB8
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:36:04.162858'
+last_modified: '2022-06-18T20:36:04.162871'
+parser: null
+source_metadata:
+  title: Hagiography of Don yod dpal (1398–1483/84)
+  author: གསེར་མདོག་པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན།
+  description: 'Digital version 4.0 {Tibetan}; master xml (completed: 2012-09); head
+    entries supplemented and linebreaks encoded, revision in process, no thematic
+    TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Volker Caumanns (vc)
+  - Editorial process:Volker Caumanns (vc), Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:Volker Caumanns (vc)
+  text_witnesses: https://sakyaresearch.org/sources/361
+  bases:
+    fa47:
+      title: Hagiography of Don yod dpal (1398–1483/84)
+      order: 1
+      base_file: fa47.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
